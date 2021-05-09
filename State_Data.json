@@ -1,0 +1,1130 @@
+[
+    {
+        "State Name": "Andhra Pradesh",
+        "Confirmed cases": "12,65,439",
+        "Active cases": "1,87,392",
+        "Recovered cases": "10,69,432",
+        "Deceased cases": "8,615",
+        "People Tested": "1,72,62,441",
+        "Population": "5,22,21,000",
+        "Vaccine doses given": "72,94,471 vaccine doses administered",
+        "Facts": [
+            "~24,232 out of every 10 lakh people in Andhra Pradesh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~15 are currently infected.",
+            "For every 100 confirmed cases, ~85 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 1.7% every day.",
+            "For every 10 lakh people in Andhra Pradesh, ~3,30,565 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "East Godavari",
+                "Active cases": "22,248"
+            },
+            {
+                "District name": "Chittoor",
+                "Active cases": "21,248"
+            },
+            {
+                "District name": "Srikakulam",
+                "Active cases": "19,612"
+            },
+            {
+                "District name": "Guntur",
+                "Active cases": "17,627"
+            },
+            {
+                "District name": "Visakhapatnam",
+                "Active cases": "17,225"
+            }
+        ]
+    },
+    {
+        "State Name": "Arunachal Pradesh",
+        "Confirmed cases": "20,048",
+        "Active cases": "2,005",
+        "Recovered cases": "17,983",
+        "Deceased cases": "60",
+        "People Tested": "4,80,631",
+        "Population": "15,04,000",
+        "Vaccine doses given": "2,76,476 vaccine doses administered",
+        "Facts": [
+            "~13,330 out of every 10 lakh people in Arunachal Pradesh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~10 are currently infected.",
+            "For every 100 confirmed cases, ~90 have recovered from the virus.",
+            "For every 100 confirmed cases, ~0 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Arunachal Pradesh, ~3,19,568 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Papum Pare",
+                "Active cases": "690"
+            },
+            {
+                "District name": "Lower Dibang Valley",
+                "Active cases": "297"
+            },
+            {
+                "District name": "West Kameng",
+                "Active cases": "140"
+            },
+            {
+                "District name": "Lower Subansiri",
+                "Active cases": "124"
+            },
+            {
+                "District name": "Changlang",
+                "Active cases": "103"
+            }
+        ]
+    },
+    {
+        "State Name": "Bihar",
+        "Confirmed cases": "5,80,217",
+        "Active cases": "1,12,976",
+        "Recovered cases": "4,64,025",
+        "Deceased cases": "3,215",
+        "People Tested": "2,72,01,953",
+        "Population": "11,95,20,000",
+        "Vaccine doses given": "76,87,374 vaccine doses administered",
+        "Facts": [
+            "~4,855 out of every 10 lakh people in Bihar have tested positive for the virus.",
+            "For every 100 confirmed cases, ~19 are currently infected.",
+            "For every 100 confirmed cases, ~80 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Bihar, ~2,27,593 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Patna",
+                "Active cases": "22,734"
+            },
+            {
+                "District name": "Gaya",
+                "Active cases": "5,752"
+            },
+            {
+                "District name": "Muzaffarpur",
+                "Active cases": "5,328"
+            },
+            {
+                "District name": "West Champaran",
+                "Active cases": "4,738"
+            },
+            {
+                "District name": "Begusarai",
+                "Active cases": "4,692"
+            }
+        ]
+    },
+    {
+        "State Name": "Chandigarh",
+        "Confirmed cases": "49,312",
+        "Active cases": "8,505",
+        "Recovered cases": "40,249",
+        "Deceased cases": "558",
+        "People Tested": "4,33,928",
+        "Population": "11,79,000",
+        "Vaccine doses given": "2,47,629 vaccine doses administered",
+        "Facts": [
+            "~41,825 out of every 10 lakh people in Chandigarh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~17 are currently infected.",
+            "For every 100 confirmed cases, ~82 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Chandigarh, ~3,68,047 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Chandigarh",
+                "Active cases": "8,505"
+            }
+        ]
+    },
+    {
+        "State Name": "Chhattisgarh",
+        "Confirmed cases": "8,42,356",
+        "Active cases": "1,30,859",
+        "Recovered cases": "7,01,116",
+        "Deceased cases": "10,381",
+        "People Tested": "76,69,976",
+        "Population": "2,87,24,000",
+        "Vaccine doses given": "58,14,814 vaccine doses administered",
+        "Facts": [
+            "~29,326 out of every 10 lakh people in Chhattisgarh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~16 are currently infected.",
+            "For every 100 confirmed cases, ~83 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 1.8% every day.",
+            "For every 10 lakh people in Chhattisgarh, ~2,67,023 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Raigarh",
+                "Active cases": "11,766"
+            },
+            {
+                "District name": "Raipur",
+                "Active cases": "10,695"
+            },
+            {
+                "District name": "Janjgir Champa",
+                "Active cases": "10,565"
+            },
+            {
+                "District name": "Korba",
+                "Active cases": "8,749"
+            },
+            {
+                "District name": "Bilaspur",
+                "Active cases": "8,069"
+            }
+        ]
+    },
+    {
+        "State Name": "Dadra and Nagar Haveli and Daman and Diu",
+        "Confirmed cases": "8,936",
+        "Active cases": "1,613",
+        "Recovered cases": "7,287",
+        "Deceased cases": "4",
+        "People Tested": "72,410",
+        "Population": "9,59,000",
+        "Vaccine doses given": "1,02,834 vaccine doses administered",
+        "Facts": [
+            "~9,318 out of every 10 lakh people in Dadra and Nagar Haveli and Daman and Diu have tested positive for the virus.",
+            "For every 100 confirmed cases, ~18 are currently infected.",
+            "For every 100 confirmed cases, ~82 have recovered from the virus.",
+            "For every 100 confirmed cases, ~0 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Dadra and Nagar Haveli and Daman and Diu, ~75,506 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Dadra and Nagar Haveli",
+                "Active cases": "1,029"
+            },
+            {
+                "District name": "Daman",
+                "Active cases": "456"
+            },
+            {
+                "District name": "Diu",
+                "Active cases": "128"
+            }
+        ]
+    },
+    {
+        "State Name": "Delhi",
+        "Confirmed cases": "13,10,231",
+        "Active cases": "87,907",
+        "Recovered cases": "12,03,253",
+        "Deceased cases": "19,071",
+        "People Tested": "1,77,51,509",
+        "Population": "1,98,14,000",
+        "Vaccine doses given": "38,97,189 vaccine doses administered",
+        "Facts": [
+            "~66,127 out of every 10 lakh people in Delhi have tested positive for the virus.",
+            "For every 100 confirmed cases, ~7 are currently infected.",
+            "For every 100 confirmed cases, ~92 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 1.6% every day.",
+            "For every 10 lakh people in Delhi, ~8,95,907 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Delhi",
+                "Active cases": "87,907"
+            }
+        ]
+    },
+    {
+        "State Name": "Gujarat",
+        "Confirmed cases": "6,69,928",
+        "Active cases": "1,43,421",
+        "Recovered cases": "5,18,234",
+        "Deceased cases": "8,273",
+        "People Tested": "1,91,58,868",
+        "Population": "6,79,36,000",
+        "Vaccine doses given": "1,37,86,185 vaccine doses administered",
+        "Facts": [
+            "~9,861 out of every 10 lakh people in Gujarat have tested positive for the virus.",
+            "For every 100 confirmed cases, ~21 are currently infected.",
+            "For every 100 confirmed cases, ~77 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Gujarat, ~2,82,013 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Ahmedabad",
+                "Active cases": "61,956"
+            },
+            {
+                "District name": "Surat",
+                "Active cases": "14,752"
+            },
+            {
+                "District name": "Vadodara",
+                "Active cases": "9,624"
+            },
+            {
+                "District name": "Jamnagar",
+                "Active cases": "5,872"
+            },
+            {
+                "District name": "Mehsana",
+                "Active cases": "5,515"
+            }
+        ]
+    },
+    {
+        "State Name": "Haryana",
+        "Confirmed cases": "6,02,349",
+        "Active cases": "1,16,109",
+        "Recovered cases": "4,80,786",
+        "Deceased cases": "5,454",
+        "People Tested": "78,14,131",
+        "Population": "2,86,72,000",
+        "Vaccine doses given": "42,66,748 vaccine doses administered",
+        "Facts": [
+            "~21,008 out of every 10 lakh people in Haryana have tested positive for the virus.",
+            "For every 100 confirmed cases, ~19 are currently infected.",
+            "For every 100 confirmed cases, ~80 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Haryana, ~2,72,535 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Gurugram",
+                "Active cases": "38,329"
+            },
+            {
+                "District name": "Faridabad",
+                "Active cases": "13,796"
+            },
+            {
+                "District name": "Hisar",
+                "Active cases": "8,551"
+            },
+            {
+                "District name": "Panipat",
+                "Active cases": "6,106"
+            },
+            {
+                "District name": "Sonipat",
+                "Active cases": "6,001"
+            }
+        ]
+    },
+    {
+        "State Name": "Himachal Pradesh",
+        "Confirmed cases": "1,28,330",
+        "Active cases": "31,893",
+        "Recovered cases": "94,586",
+        "Deceased cases": "1,817",
+        "People Tested": "16,24,556",
+        "Population": "73,00,000",
+        "Vaccine doses given": "20,37,743 vaccine doses administered",
+        "Facts": [
+            "~17,579 out of every 10 lakh people in Himachal Pradesh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~25 are currently infected.",
+            "For every 100 confirmed cases, ~74 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Himachal Pradesh, ~2,22,542 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Kangra",
+                "Active cases": "8,780"
+            },
+            {
+                "District name": "Solan",
+                "Active cases": "4,128"
+            },
+            {
+                "District name": "Mandi",
+                "Active cases": "3,627"
+            },
+            {
+                "District name": "Shimla",
+                "Active cases": "2,986"
+            },
+            {
+                "District name": "Sirmaur",
+                "Active cases": "2,978"
+            }
+        ]
+    },
+    {
+        "State Name": "Jammu and Kashmir",
+        "Confirmed cases": "2,11,742",
+        "Active cases": "46,535",
+        "Recovered cases": "1,62,535",
+        "Deceased cases": "2,672",
+        "People Tested": "76,04,448",
+        "Population": "1,32,03,000",
+        "Vaccine doses given": "26,92,880 vaccine doses administered",
+        "Facts": [
+            "~16,037 out of every 10 lakh people in Jammu and Kashmir have tested positive for the virus.",
+            "For every 100 confirmed cases, ~22 are currently infected.",
+            "For every 100 confirmed cases, ~77 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Jammu and Kashmir, ~5,75,964 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Srinagar",
+                "Active cases": "10,951"
+            },
+            {
+                "District name": "Jammu",
+                "Active cases": "7,126"
+            },
+            {
+                "District name": "Baramulla",
+                "Active cases": "3,980"
+            },
+            {
+                "District name": "Anantnag",
+                "Active cases": "3,441"
+            },
+            {
+                "District name": "Budgam",
+                "Active cases": "3,154"
+            }
+        ]
+    },
+    {
+        "State Name": "Jharkhand",
+        "Confirmed cases": "2,82,174",
+        "Active cases": "61,195",
+        "Recovered cases": "2,17,223",
+        "Deceased cases": "3,756",
+        "People Tested": "72,86,536",
+        "Population": "3,74,03,000",
+        "Vaccine doses given": "32,69,710 vaccine doses administered",
+        "Facts": [
+            "~7,544 out of every 10 lakh people in Jharkhand have tested positive for the virus.",
+            "For every 100 confirmed cases, ~22 are currently infected.",
+            "For every 100 confirmed cases, ~77 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 2.4% every day.",
+            "For every 10 lakh people in Jharkhand, ~1,94,812 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Ranchi",
+                "Active cases": "19,474"
+            },
+            {
+                "District name": "East Singhbhum",
+                "Active cases": "5,861"
+            },
+            {
+                "District name": "Hazaribagh",
+                "Active cases": "4,111"
+            },
+            {
+                "District name": "Bokaro",
+                "Active cases": "3,662"
+            },
+            {
+                "District name": "Latehar",
+                "Active cases": "2,935"
+            }
+        ]
+    },
+    {
+        "State Name": "Karnataka",
+        "Confirmed cases": "18,86,448",
+        "Active cases": "5,48,841",
+        "Recovered cases": "13,19,301",
+        "Deceased cases": "18,286",
+        "People Tested": "2,68,71,729",
+        "Population": "6,57,98,000",
+        "Vaccine doses given": "1,04,87,851 vaccine doses administered",
+        "Facts": [
+            "~28,670 out of every 10 lakh people in Karnataka have tested positive for the virus.",
+            "For every 100 confirmed cases, ~29 are currently infected.",
+            "For every 100 confirmed cases, ~70 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Karnataka, ~4,08,397 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Bengaluru Urban",
+                "Active cases": "3,44,754"
+            },
+            {
+                "District name": "Tumakuru",
+                "Active cases": "19,053"
+            },
+            {
+                "District name": "Mysuru",
+                "Active cases": "16,427"
+            },
+            {
+                "District name": "Hassan",
+                "Active cases": "13,179"
+            },
+            {
+                "District name": "Kalaburagi",
+                "Active cases": "13,120"
+            }
+        ]
+    },
+    {
+        "State Name": "Kerala",
+        "Confirmed cases": "18,66,828",
+        "Active cases": "4,17,097",
+        "Recovered cases": "14,43,633",
+        "Deceased cases": "5,747",
+        "People Tested": "1,69,09,361",
+        "Population": "3,51,25,000",
+        "Vaccine doses given": "79,33,903 vaccine doses administered",
+        "Facts": [
+            "~53,148 out of every 10 lakh people in Kerala have tested positive for the virus.",
+            "For every 100 confirmed cases, ~22 are currently infected.",
+            "For every 100 confirmed cases, ~77 have recovered from the virus.",
+            "For every 100 confirmed cases, ~0 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 2.2% every day.",
+            "For every 10 lakh people in Kerala, ~4,81,405 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Ernakulam",
+                "Active cases": "66,250"
+            },
+            {
+                "District name": "Kozhikode",
+                "Active cases": "50,685"
+            },
+            {
+                "District name": "Thrissur",
+                "Active cases": "48,311"
+            },
+            {
+                "District name": "Malappuram",
+                "Active cases": "45,444"
+            },
+            {
+                "District name": "Thiruvananthapuram",
+                "Active cases": "35,924"
+            }
+        ]
+    },
+    {
+        "State Name": "Ladakh",
+        "Confirmed cases": "15,179",
+        "Active cases": "1,412",
+        "Recovered cases": "13,614",
+        "Deceased cases": "153",
+        "People Tested": "2,12,898",
+        "Population": "2,93,000",
+        "Vaccine doses given": "1,19,276 vaccine doses administered",
+        "Facts": [
+            "~51,805 out of every 10 lakh people in Ladakh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~9 are currently infected.",
+            "For every 100 confirmed cases, ~90 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Ladakh, ~7,26,614 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Leh",
+                "Active cases": "1,211"
+            },
+            {
+                "District name": "Kargil",
+                "Active cases": "201"
+            }
+        ]
+    },
+    {
+        "State Name": "Lakshadweep",
+        "Confirmed cases": "3,756",
+        "Active cases": "1,039",
+        "Recovered cases": "2,692",
+        "Deceased cases": "9",
+        "People Tested": "89,009",
+        "Population": "68,000",
+        "Vaccine doses given": "25,455 vaccine doses administered",
+        "Facts": [
+            "~55,235 out of every 10 lakh people in Lakshadweep have tested positive for the virus.",
+            "For every 100 confirmed cases, ~28 are currently infected.",
+            "For every 100 confirmed cases, ~72 have recovered from the virus.",
+            "For every 100 confirmed cases, ~0 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 3.6% every day.",
+            "For every 10 lakh people in Lakshadweep, ~13,08,956 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Lakshadweep",
+                "Active cases": "1,039"
+            }
+        ]
+    },
+    {
+        "State Name": "Madhya Pradesh",
+        "Confirmed cases": "6,60,712",
+        "Active cases": "1,02,486",
+        "Recovered cases": "5,51,892",
+        "Deceased cases": "6,334",
+        "People Tested": "82,58,708",
+        "Population": "8,22,32,000",
+        "Vaccine doses given": "85,95,188 vaccine doses administered",
+        "Facts": [
+            "~8,035 out of every 10 lakh people in Madhya Pradesh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~16 are currently infected.",
+            "For every 100 confirmed cases, ~84 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Madhya Pradesh, ~1,00,432 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Indore",
+                "Active cases": "14,911"
+            },
+            {
+                "District name": "Bhopal",
+                "Active cases": "13,192"
+            },
+            {
+                "District name": "Gwalior",
+                "Active cases": "9,941"
+            },
+            {
+                "District name": "Jabalpur",
+                "Active cases": "4,916"
+            },
+            {
+                "District name": "Ujjain",
+                "Active cases": "3,021"
+            }
+        ]
+    },
+    {
+        "State Name": "Maharashtra",
+        "Confirmed cases": "50,53,336",
+        "Active cases": "6,28,213",
+        "Recovered cases": "43,47,592",
+        "Deceased cases": "75,277",
+        "People Tested": "2,91,91,331",
+        "Population": "12,21,53,000",
+        "Vaccine doses given": "1,78,58,864 vaccine doses administered",
+        "Facts": [
+            "~41,369 out of every 10 lakh people in Maharashtra have tested positive for the virus.",
+            "For every 100 confirmed cases, ~12 are currently infected.",
+            "For every 100 confirmed cases, ~86 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Maharashtra, ~2,38,974 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Pune",
+                "Active cases": "1,06,829"
+            },
+            {
+                "District name": "Nagpur",
+                "Active cases": "62,159"
+            },
+            {
+                "District name": "Mumbai",
+                "Active cases": "52,874"
+            },
+            {
+                "District name": "Thane",
+                "Active cases": "43,510"
+            },
+            {
+                "District name": "Nashik",
+                "Active cases": "40,141"
+            }
+        ]
+    },
+    {
+        "State Name": "Meghalaya",
+        "Confirmed cases": "19,302",
+        "Active cases": "2,678",
+        "Recovered cases": "16,414",
+        "Deceased cases": "210",
+        "People Tested": "4,83,733",
+        "Population": "32,24,000",
+        "Vaccine doses given": "3,42,209 vaccine doses administered",
+        "Facts": [
+            "~5,987 out of every 10 lakh people in Meghalaya have tested positive for the virus.",
+            "For every 100 confirmed cases, ~14 are currently infected.",
+            "For every 100 confirmed cases, ~85 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Meghalaya, ~1,50,041 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "East Khasi Hills",
+                "Active cases": "1,583"
+            },
+            {
+                "District name": "Ribhoi",
+                "Active cases": "352"
+            },
+            {
+                "District name": "West Garo Hills",
+                "Active cases": "184"
+            },
+            {
+                "District name": "West Jaintia Hills",
+                "Active cases": "119"
+            },
+            {
+                "District name": "West Khasi Hills",
+                "Active cases": "117"
+            }
+        ]
+    },
+    {
+        "State Name": "Mizoram",
+        "Confirmed cases": "7,487",
+        "Active cases": "1,887",
+        "Recovered cases": "5,583",
+        "Deceased cases": "17",
+        "People Tested": "3,26,234",
+        "Population": "11,92,000",
+        "Vaccine doses given": "2,77,860 vaccine doses administered",
+        "Facts": [
+            "~6,281 out of every 10 lakh people in Mizoram have tested positive for the virus.",
+            "For every 100 confirmed cases, ~25 are currently infected.",
+            "For every 100 confirmed cases, ~75 have recovered from the virus.",
+            "For every 100 confirmed cases, ~0 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 2.7% every day.",
+            "For every 10 lakh people in Mizoram, ~2,73,686 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Aizawl",
+                "Active cases": "1,368"
+            },
+            {
+                "District name": "Serchhip",
+                "Active cases": "158"
+            },
+            {
+                "District name": "Kolasib",
+                "Active cases": "88"
+            },
+            {
+                "District name": "Lunglei",
+                "Active cases": "82"
+            },
+            {
+                "District name": "Lawngtlai",
+                "Active cases": "58"
+            }
+        ]
+    },
+    {
+        "State Name": "Nagaland",
+        "Confirmed cases": "15,913",
+        "Active cases": "2,711",
+        "Recovered cases": "12,559",
+        "Deceased cases": "137",
+        "People Tested": "1,63,892",
+        "Population": "21,50,000",
+        "Vaccine doses given": "2,18,088 vaccine doses administered",
+        "Facts": [
+            "~7,401 out of every 10 lakh people in Nagaland have tested positive for the virus.",
+            "For every 100 confirmed cases, ~17 are currently infected.",
+            "For every 100 confirmed cases, ~79 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Nagaland, ~76,229 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Dimapur",
+                "Active cases": "1,792"
+            },
+            {
+                "District name": "Kohima",
+                "Active cases": "725"
+            },
+            {
+                "District name": "Mon",
+                "Active cases": "67"
+            },
+            {
+                "District name": "Mokokchung",
+                "Active cases": "48"
+            },
+            {
+                "District name": "Tuensang",
+                "Active cases": "30"
+            }
+        ]
+    },
+    {
+        "State Name": "Odisha",
+        "Confirmed cases": "5,24,207",
+        "Active cases": "82,671",
+        "Recovered cases": "4,39,322",
+        "Deceased cases": "2,214",
+        "People Tested": "1,04,69,081",
+        "Population": "4,36,71,000",
+        "Vaccine doses given": "61,59,998 vaccine doses administered",
+        "Facts": [
+            "~12,004 out of every 10 lakh people in Odisha have tested positive for the virus.",
+            "For every 100 confirmed cases, ~16 are currently infected.",
+            "For every 100 confirmed cases, ~84 have recovered from the virus.",
+            "For every 100 confirmed cases, ~0 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Odisha, ~2,39,726 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Khordha",
+                "Active cases": "13,025"
+            },
+            {
+                "District name": "Sundargarh",
+                "Active cases": "10,121"
+            },
+            {
+                "District name": "Cuttack",
+                "Active cases": "6,677"
+            },
+            {
+                "District name": "Sambalpur",
+                "Active cases": "4,184"
+            },
+            {
+                "District name": "Bargarh",
+                "Active cases": "4,084"
+            }
+        ]
+    },
+    {
+        "State Name": "Puducherry",
+        "Confirmed cases": "70,076",
+        "Active cases": "13,585",
+        "Recovered cases": "55,552",
+        "Deceased cases": "939",
+        "People Tested": "8,56,425",
+        "Population": "15,04,000",
+        "Vaccine doses given": "2,15,447 vaccine doses administered",
+        "Facts": [
+            "~46,593 out of every 10 lakh people in Puducherry have tested positive for the virus.",
+            "For every 100 confirmed cases, ~19 are currently infected.",
+            "For every 100 confirmed cases, ~79 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 2.2% every day.",
+            "For every 10 lakh people in Puducherry, ~5,69,432 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Puducherry",
+                "Active cases": "10,735"
+            },
+            {
+                "District name": "Karaikal",
+                "Active cases": "1,311"
+            },
+            {
+                "District name": "Yanam",
+                "Active cases": "1,188"
+            },
+            {
+                "District name": "Mahe",
+                "Active cases": "351"
+            }
+        ]
+    },
+    {
+        "State Name": "Punjab",
+        "Confirmed cases": "4,33,689",
+        "Active cases": "71,948",
+        "Recovered cases": "3,51,426",
+        "Deceased cases": "10,315",
+        "People Tested": "77,07,585",
+        "Population": "2,98,59,000",
+        "Vaccine doses given": "38,36,530 vaccine doses administered",
+        "Facts": [
+            "~14,525 out of every 10 lakh people in Punjab have tested positive for the virus.",
+            "For every 100 confirmed cases, ~17 are currently infected.",
+            "For every 100 confirmed cases, ~81 have recovered from the virus.",
+            "For every 100 confirmed cases, ~2 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 2% every day.",
+            "For every 10 lakh people in Punjab, ~2,58,133 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Ludhiana",
+                "Active cases": "11,368"
+            },
+            {
+                "District name": "S.A.S. Nagar",
+                "Active cases": "9,953"
+            },
+            {
+                "District name": "Jalandhar",
+                "Active cases": "6,602"
+            },
+            {
+                "District name": "Bathinda",
+                "Active cases": "6,442"
+            },
+            {
+                "District name": "Amritsar",
+                "Active cases": "5,594"
+            }
+        ]
+    },
+    {
+        "State Name": "Rajasthan",
+        "Confirmed cases": "7,38,786",
+        "Active cases": "1,99,307",
+        "Recovered cases": "5,33,973",
+        "Deceased cases": "5,506",
+        "People Tested": "93,22,119",
+        "Population": "7,72,64,000",
+        "Vaccine doses given": "1,40,19,524 vaccine doses administered",
+        "Facts": [
+            "~9,562 out of every 10 lakh people in Rajasthan have tested positive for the virus.",
+            "For every 100 confirmed cases, ~27 are currently infected.",
+            "For every 100 confirmed cases, ~72 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Rajasthan, ~1,20,653 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Jaipur",
+                "Active cases": "48,913"
+            },
+            {
+                "District name": "Jodhpur",
+                "Active cases": "24,659"
+            },
+            {
+                "District name": "Bhilwara",
+                "Active cases": "10,681"
+            },
+            {
+                "District name": "Alwar",
+                "Active cases": "9,440"
+            },
+            {
+                "District name": "Sikar",
+                "Active cases": "8,251"
+            }
+        ]
+    },
+    {
+        "State Name": "Tamil Nadu",
+        "Confirmed cases": "13,51,362",
+        "Active cases": "1,39,401",
+        "Recovered cases": "11,96,549",
+        "Deceased cases": "15,412",
+        "People Tested": "2,38,54,797",
+        "Population": "7,56,95,000",
+        "Vaccine doses given": "64,80,287 vaccine doses administered",
+        "Facts": [
+            "~17,853 out of every 10 lakh people in Tamil Nadu have tested positive for the virus.",
+            "For every 100 confirmed cases, ~10 are currently infected.",
+            "For every 100 confirmed cases, ~89 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Tamil Nadu, ~3,15,144 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Chennai",
+                "Active cases": "32,861"
+            },
+            {
+                "District name": "Chengalpattu",
+                "Active cases": "13,142"
+            },
+            {
+                "District name": "Coimbatore",
+                "Active cases": "10,925"
+            },
+            {
+                "District name": "Thiruvallur",
+                "Active cases": "7,284"
+            },
+            {
+                "District name": "Madurai",
+                "Active cases": "5,795"
+            }
+        ]
+    },
+    {
+        "State Name": "Tripura",
+        "Confirmed cases": "37,205",
+        "Active cases": "2,568",
+        "Recovered cases": "34,212",
+        "Deceased cases": "402",
+        "People Tested": "7,44,022",
+        "Population": "39,92,000",
+        "Vaccine doses given": "13,93,657 vaccine doses administered",
+        "Facts": [
+            "~9,320 out of every 10 lakh people in Tripura have tested positive for the virus.",
+            "For every 100 confirmed cases, ~7 are currently infected.",
+            "For every 100 confirmed cases, ~92 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Tripura, ~1,86,378 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "West Tripura",
+                "Active cases": "1,537"
+            },
+            {
+                "District name": "North Tripura",
+                "Active cases": "276"
+            },
+            {
+                "District name": "South Tripura",
+                "Active cases": "182"
+            },
+            {
+                "District name": "Unokoti",
+                "Active cases": "181"
+            },
+            {
+                "District name": "Dhalai",
+                "Active cases": "145"
+            }
+        ]
+    },
+    {
+        "State Name": "Uttar Pradesh",
+        "Confirmed cases": "14,80,315",
+        "Active cases": "2,45,736",
+        "Recovered cases": "12,19,409",
+        "Deceased cases": "15,170",
+        "People Tested": "4,27,24,305",
+        "Population": "22,49,79,000",
+        "Vaccine doses given": "1,35,93,961 vaccine doses administered",
+        "Facts": [
+            "~6,580 out of every 10 lakh people in Uttar Pradesh have tested positive for the virus.",
+            "For every 100 confirmed cases, ~17 are currently infected.",
+            "For every 100 confirmed cases, ~82 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in Uttar Pradesh, ~1,89,904 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Lucknow",
+                "Active cases": "25,748"
+            },
+            {
+                "District name": "Meerut",
+                "Active cases": "12,650"
+            },
+            {
+                "District name": "Varanasi",
+                "Active cases": "10,572"
+            },
+            {
+                "District name": "Kanpur Nagar",
+                "Active cases": "9,986"
+            },
+            {
+                "District name": "Gautam Buddha Nagar",
+                "Active cases": "8,545"
+            }
+        ]
+    },
+    {
+        "State Name": "Uttarakhand",
+        "Confirmed cases": "2,38,383",
+        "Active cases": "71,174",
+        "Recovered cases": "1,58,903",
+        "Deceased cases": "3,548",
+        "People Tested": "40,30,481",
+        "Population": "1,11,41,000",
+        "Vaccine doses given": "23,26,309 vaccine doses administered",
+        "Facts": [
+            "~21,397 out of every 10 lakh people in Uttarakhand have tested positive for the virus.",
+            "For every 100 confirmed cases, ~30 are currently infected.",
+            "For every 100 confirmed cases, ~67 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "In the last one week, the number of new infections has grown by an average of 3.6% every day.",
+            "For every 10 lakh people in Uttarakhand, ~3,61,770 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Dehradun",
+                "Active cases": "26,710"
+            },
+            {
+                "District name": "Haridwar",
+                "Active cases": "11,277"
+            },
+            {
+                "District name": "Nainital",
+                "Active cases": "7,203"
+            },
+            {
+                "District name": "Udham Singh Nagar",
+                "Active cases": "5,915"
+            },
+            {
+                "District name": "Pauri Garhwal",
+                "Active cases": "4,213"
+            }
+        ]
+    },
+    {
+        "State Name": "West Bengal",
+        "Confirmed cases": "9,73,718",
+        "Active cases": "1,25,164",
+        "Recovered cases": "8,36,351",
+        "Deceased cases": "12,203",
+        "People Tested": "1,09,05,646",
+        "Population": "9,69,06,000",
+        "Vaccine doses given": "1,18,91,417 vaccine doses administered",
+        "Facts": [
+            "~10,048 out of every 10 lakh people in West Bengal have tested positive for the virus.",
+            "For every 100 confirmed cases, ~13 are currently infected.",
+            "For every 100 confirmed cases, ~86 have recovered from the virus.",
+            "For every 100 confirmed cases, ~1 have unfortunately passed away from the virus.",
+            "There has been no growth in the number of infections in last one week.",
+            "For every 10 lakh people in West Bengal, ~1,12,538 samples were tested."
+        ],
+        "Top Districts": [
+            {
+                "District name": "Kolkata",
+                "Active cases": "26,117"
+            },
+            {
+                "District name": "North 24 Parganas",
+                "Active cases": "23,466"
+            },
+            {
+                "District name": "South 24 Parganas",
+                "Active cases": "8,017"
+            },
+            {
+                "District name": "Howrah",
+                "Active cases": "7,524"
+            },
+            {
+                "District name": "Paschim Bardhaman",
+                "Active cases": "6,953"
+            }
+        ]
+    }
+]
