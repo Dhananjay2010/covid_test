@@ -1,4 +1,4 @@
-# Git
+# Puppeteer Project
 
 This projects gives the most recent covid data of all the states in India.
 
